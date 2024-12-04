@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|c:\\users\\yoeri\\source\\repos\\leaderboardmanager\\leaderboardmanager\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|solutionrelative:leaderboardmanager\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|c:\\users\\yoeri\\source\\repos\\leaderboardmanager\\leaderboardmanager\\services\\ileaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|solutionrelative:leaderboardmanager\\services\\ileaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|c:\\users\\yoeri\\source\\repos\\leaderboardmanager\\leaderboardmanager\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6DA9DB-2834-4AF1-A20A-271A833FEACD}|LeaderboardManager\\LeaderboardManager.csproj|solutionrelative:leaderboardmanager\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "LeaderboardManager\\Models\\Score.cs",
+              "ToolTip": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Models\\Score.cs",
+              "RelativeToolTip": "LeaderboardManager\\Models\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:31:32.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILeaderboardService.cs",
+              "DocumentMoniker": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Services\\ILeaderboardService.cs",
+              "RelativeDocumentMoniker": "LeaderboardManager\\Services\\ILeaderboardService.cs",
+              "ToolTip": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Services\\ILeaderboardService.cs",
+              "RelativeToolTip": "LeaderboardManager\\Services\\ILeaderboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:11:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "LeaderboardManager\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "C:\\Users\\yoeri\\source\\repos\\LeaderboardManager\\LeaderboardManager\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "LeaderboardManager\\Controllers\\LeaderboardController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:50:10.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@LeaderboardManager_HostAddress = http://localhost:5105
+
+GET {{LeaderboardManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
